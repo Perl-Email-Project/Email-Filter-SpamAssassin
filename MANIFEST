@@ -1,9 +1,11 @@
+Changes
+lib/Email/Filter/SpamAssassin.pm
+LICENSE
+Makefile.PL
 MANIFEST
 README
-LICENSE
-Changes
+t/00.load.t
+t/nice001
 t/pod-coverage.t
 t/pod.t
-Makefile.PL
-lib/Email/Filter/SpamAssassin.pm
-t/00.load.t
+t/spam001
